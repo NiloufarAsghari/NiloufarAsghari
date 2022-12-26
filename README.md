@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Niloufar Asghari</h1>
-<h3 align="center">I'm Machine Learning Engineer and work specifically in the Computer vision and Image Processing field!</h3>
+<!-- <h3 align="center">I'm Machine Learning Engineer and work specifically in the Computer vision and Image Processing field!</h3> -->
 
 
 
 
-- :brain:	 I’m currently learning **Pytorch** <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="20" height="20"/></a>
+<!-- - :brain:	 I’m currently learning **Pytorch** <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="20" height="20"/></a> -->
 
 
 
-- 💻 All of my projects are available at <a href="https://github.com/NiloufarAsghari">My github</a>
+- 💻 Some of my projects are available at <a href="https://github.com/NiloufarAsghari">My github</a>
 
 
-- 💬 Ask me about **Machine Learning, Computer Vision, Image Processing, Deep Learning, Python, Algorithm**
+- 💬 Ask me about **Machine Learning, Computer Vision, Image Processing, Deep Learning, TensorFlow and PyTorch, Python, Algorithm**
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/niloufar-asghari-187457165/">Niloufar Asghari</a>**
 
@@ -34,5 +34,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/niloufar-asghari-187457165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niloufar-asghari-187457165/" height="30" width="40" /></a>
 <a href="https://kaggle.com/niloufarasghari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="niloufarasghari" height="30" width="40" /></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niloufarasghari&label=Profile%20views&color=0e75b6&style=flat" alt="niloufarasghari" /> </p>
+<!-- </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niloufarasghari&label=Profile%20views&color=0e75b6&style=flat" alt="niloufarasghari" /> </p> -->
