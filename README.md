@@ -11,7 +11,7 @@
 - 💻 Some of my projects are available at <a href="https://github.com/NiloufarAsghari">My github</a>
 
 
-- 💬 Ask me about **Machine Learning, Computer Vision, Image Processing, Deep Learning, TensorFlow and PyTorch, Python, Algorithm**
+<!--- 💬 Ask me about **Machine Learning, Computer Vision, Image Processing, Deep Learning, TensorFlow and PyTorch, Python, Algorithm**-->
 
 - 📫 How to reach me **<a href="https://www.linkedin.com/in/niloufar-asghari-187457165/">Niloufar Asghari</a>**
 
